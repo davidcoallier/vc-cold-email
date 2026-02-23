@@ -1,0 +1,8 @@
+{
+  "name": "vc-cold-email",
+  "description": "Writes cold emails to VCs based on OpenVC's top 1% methodology",
+  "version": "1.0.0",
+  "author": {
+    "name": "David Coallier"
+  }
+}

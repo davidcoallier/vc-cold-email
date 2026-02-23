@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "davidcoallier",
+  "description": "VC cold email writing tools based on OpenVC's top 1% methodology",
+  "owner": {
+    "name": "David Coallier",
+    "email": "david@manano.ai"
+  },
+  "plugins": [
+    {
+      "name": "vc-cold-email",
+      "description": "Writes cold emails to VCs based on OpenVC's top 1% methodology",
+      "author": {
+        "name": "David Coallier",
+        "email": "david@manano.ai"
+      },
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/davidcoallier/vc-cold-email"
+    }
+  ]
+}
